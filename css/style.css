@@ -234,7 +234,8 @@ header nav .form i {
 .landing {
     min-height: 100vh;
     background-color: #333;
-    background-image: url("/images/owl.jpg");
+    /* background-image: url("/images/owl.jpg"); */
+    background-image: url("https://i.ibb.co/CK1DvKJ/owl.jpg");
     background-size: cover;
     position: relative;
 }
