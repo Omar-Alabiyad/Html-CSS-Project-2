@@ -694,7 +694,7 @@ header nav .form i {
     padding-top: var(--section-padding);
     padding-bottom: var(--section-padding);
     text-align: center;
-    background-image: url(/images/about-background.jpg);
+    background-image: url(https://i.postimg.cc/BQVpRdTs/about-background.jpg);
     background-size: cover;
     position: relative;
 }
