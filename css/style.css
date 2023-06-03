@@ -1262,7 +1262,6 @@ footer {
     padding-top: calc(var(--section-padding) / 2);
     padding-bottom: calc(var(--section-padding) / 2);
     /* background-image: url(/images/earth-09.jpg); */
-    background-image: url(https://i.postimg.cc/TY9gg2v2/earth-09.jpg);
     background-image: url(https://i.postimg.cc/TY9gg2v2/earth-09.jpg) !important;
     background-size: cover;
     position: relative;
